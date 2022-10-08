@@ -4,6 +4,6 @@
     <Platforms>AnyCPU;x86</Platforms>
   </PropertyGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ObjectModelExtensions\ObjectModelExtensions.csproj" />
+    <ProjectReference Include="..\Sealkeen.ObjectModel.Extensions\Sealkeen.ObjectModel.Extensions.csproj" />
   </ItemGroup>
 </Project>
